@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ohitsjohn/first-project/issues"
   },
-  "homepage": "https://github.com/ohitsjohn/first-project#readme"
+  "homepage": "https://github.com/ohitsjohn/first-project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
